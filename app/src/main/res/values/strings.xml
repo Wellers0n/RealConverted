@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">REAL CONVERTED</string>
+    <string name="valorDolar">Valor DOLAR: </string>
+    <string name="valorEuro">Valor EURO: </string>
+    <string name="calcular">CALCULAR</string>
+    <string name="title">DIGITE UM VALOR</string>
+
+</resources>
